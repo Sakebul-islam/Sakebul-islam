@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning React.
 
 <a href="mailto:example@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" style="margin-right: 10px;">
 </a>
-<br>
-<a href="mailto:example@gmail.com">example@gmail.com</a>
+<a href="mailto:example@gmail.com" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 12px 20px; border: none; cursor: pointer;">
+    Contact John Doe
+  </button>
+</a>
 
 
 <!---
