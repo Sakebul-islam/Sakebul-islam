@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,visualstudio,vite,firebase,github,githubactions,netlify,nodejs,figma,discord&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,visualstudio,vite,firebase,github,githubactions,netlify,nodejs,express,mongodb,figma,discord&theme=dark)
 
 </div>
 
