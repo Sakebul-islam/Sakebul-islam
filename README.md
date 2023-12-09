@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning NextJS.
 - 📫 Reach me at **mdsakebul66@gmail.com**
 
-<h2><span style="display:inline-block; font-size:12px;">🟢</span> My Current Stats</h2>
+<h2><span style="display:inline-block; font-size:8px;">🟢</span> My Current Stats</h2>
 
 <div align="center">
 
