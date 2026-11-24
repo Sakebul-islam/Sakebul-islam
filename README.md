@@ -3,7 +3,7 @@
 <a href="https://sakebul.com">
   <img src="./images/banner.gif" alt="Sakebul Islam — Full-stack Developer (React, Next.js, Node.js, PostgreSQL)" width="100%" />
 </a>
-<br />
+
 
 <img src="./images/divider.png" alt="" width="100%" height="6" />
 
