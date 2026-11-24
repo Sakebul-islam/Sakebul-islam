@@ -38,49 +38,31 @@
 
 <table>
   <tr>
-    <td colspan="2" width="33%" align="center" valign="top">
-      <a href="https://averto-leanding.vercel.app/"><img src="./images/p-averto.png" alt="Averto — Next.js agency template, 69 sales" /></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://averto-leanding.vercel.app/"><img src="./images/p-averto.png" alt="Averto — Next.js agency template, 69 sales" width="270" /></a>
       <br />
-      <a href="https://averto-leanding.vercel.app/"><b>▶ Live preview</b></a> ·
-      <a href="https://themeforest.net/item/averto-creative-digital-agency-nextjs-template/59342357">ThemeForest</a> ·
-      <a href="https://sakebul.com/work/averto-nextjs">Case study</a>
-    </td>
-    <td colspan="2" width="33%" align="center" valign="top">
-      <a href="https://saaslyn-leanding.netlify.app/"><img src="./images/p-saaslyn.png" alt="SaasLyn — SaaS and AI startup HTML template, 52 sales" /></a>
+      <a href="https://averto-leanding.vercel.app/"><b>▶ Live preview</b></a>
       <br />
-      <a href="https://saaslyn-leanding.netlify.app/"><b>▶ Live preview</b></a> ·
-      <a href="https://themeforest.net/item/saaslyn-saas-ai-tech-startup-html-template/60544759">ThemeForest</a> ·
-      <a href="https://sakebul.com/work/saaslyn-html">Case study</a>
+      <a href="https://themeforest.net/item/averto-creative-digital-agency-nextjs-template/59342357">ThemeForest</a> · <a href="https://sakebul.com/work/averto-nextjs">Case study</a>
     </td>
-    <td colspan="2" width="33%" align="center" valign="top">
-      <a href="https://feux-landing-html.netlify.app/"><img src="./images/p-feux.png" alt="Feux — creative agency HTML template, 43 sales" /></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://saaslyn-leanding.netlify.app/"><img src="./images/p-saaslyn.png" alt="SaasLyn — SaaS and AI startup HTML template, 52 sales" width="270" /></a>
       <br />
-      <a href="https://feux-landing-html.netlify.app/"><b>▶ Live preview</b></a> ·
-      <a href="https://themeforest.net/item/feux-creative-digital-agency-html-template/56812598">ThemeForest</a> ·
-      <a href="https://sakebul.com/work/feux-html">Case study</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2" width="33%" align="center" valign="top">
-      <a href="https://main--agenshart-landing.netlify.app/"><img src="./images/p-agenshark.png" alt="Agenshark — startup and agency HTML template, 32 sales" /></a>
+      <a href="https://saaslyn-leanding.netlify.app/"><b>▶ Live preview</b></a>
       <br />
-      <a href="https://main--agenshart-landing.netlify.app/"><b>▶ Live preview</b></a> ·
-      <a href="https://themeforest.net/item/agenshark-startup-agency-html-template/52020607">ThemeForest</a> ·
-      <a href="https://sakebul.com/work/agenshark-html">Case study</a>
+      <a href="https://themeforest.net/item/saaslyn-saas-ai-tech-startup-html-template/60544759">ThemeForest</a> · <a href="https://sakebul.com/work/saaslyn-html">Case study</a>
     </td>
-    <td colspan="2" width="33%" align="center" valign="top">
-      <a href="https://marketi-html.vercel.app/"><img src="./images/p-marketi.png" alt="Marketi — SEO and marketing HTML template, 25 sales" /></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://feux-landing-html.netlify.app/"><img src="./images/p-feux.png" alt="Feux — creative agency HTML template, 43 sales" width="270" /></a>
       <br />
-      <a href="https://marketi-html.vercel.app/"><b>▶ Live preview</b></a> ·
-      <a href="https://themeforest.net/item/marketi-seo-digital-marketing-html-template/51000684">ThemeForest</a> ·
-      <a href="https://sakebul.com/work/marketi-html">Case study</a>
+      <a href="https://feux-landing-html.netlify.app/"><b>▶ Live preview</b></a>
+      <br />
+      <a href="https://themeforest.net/item/feux-creative-digital-agency-html-template/56812598">ThemeForest</a> · <a href="https://sakebul.com/work/feux-html">Case study</a>
     </td>
-    <td colspan="1"></td>
   </tr>
 </table>
 
-<sub>221 sales across these 5 featured ThemeForest templates · 25 projects in all — see <a href="https://sakebul.com/work">sakebul.com/work</a> for web apps like SkillUP, Kola and Martaxo.</sub>
+<sub>164 sales across these 3 best-selling ThemeForest templates · 25 projects in all — see <a href="https://sakebul.com/work">sakebul.com/work</a> for more, including web apps like SkillUP, Kola and Martaxo.</sub>
 
 <br /><br />
 
