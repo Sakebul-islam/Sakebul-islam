@@ -4,59 +4,120 @@
   <img src="./images/banner.gif" alt="Sakebul Islam — Full-stack Developer (React, Next.js, Node.js, PostgreSQL)" width="100%" />
 </a>
 
+<a href="https://sakebul.com"><img src="https://img.shields.io/badge/PORTFOLIO-sakebul.com-D4FF3F?style=for-the-badge&labelColor=0A0A0B&logo=googlechrome&logoColor=D4FF3F" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sakebul-islam"><img src="https://img.shields.io/badge/LINKEDIN-sakebul--islam-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=linkedin&logoColor=A99BFF" alt="LinkedIn" /></a>
+<a href="mailto:sakebul@sakebul.com"><img src="https://img.shields.io/badge/EMAIL-sakebul@sakebul.com-F4F3EE?style=for-the-badge&labelColor=0A0A0B&logo=maildotru&logoColor=F4F3EE" alt="Email" /></a>
+<a href="https://www.facebook.com/Sakebul66/"><img src="https://img.shields.io/badge/FACEBOOK-Sakebul66-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=facebook&logoColor=A99BFF" alt="Facebook" /></a>
+
+<br /><br />
+
+<img src="./images/divider.png" alt="" width="100%" height="6" />
+
+<br /><br />
+
+<img src="./images/h-about.png" alt="01 — About me" width="100%" />
+
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sakebul.com-D4FF3F?style=for-the-badge&labelColor=0A0A0B)](https://sakebul.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakebul--islam-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakebul-islam)
-[![Email](https://img.shields.io/badge/Email-mdsakebul66@gmail.com-F4F3EE?style=for-the-badge&labelColor=0A0A0B&logo=gmail&logoColor=white)](mailto:mdsakebul66@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Sakebul66-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=facebook&logoColor=white)](https://www.facebook.com/Sakebul66/)
+<img src="./images/about.png" alt="about.ts — Sakebul Islam, Full-stack Developer from Dhaka, Bangladesh" width="100%" />
 
 </div>
 
-## 👋 About me
+<br />
 
-Hi, I'm **Sakebul** — a developer from Dhaka, Bangladesh who builds fast, thoughtful web products. I work mostly with **React & Next.js**, and I've shipped full-stack MERN apps end to end: authentication, Stripe payments, role-based dashboards and REST APIs.
+> **Hi, I'm Sakebul** 👋 — a developer from **Dhaka, Bangladesh** who builds fast, thoughtful web products.
+> I work mostly with **React & Next.js**, and I've shipped full-stack MERN apps end to end — authentication, Stripe payments, role-based dashboards and REST APIs. Right now I'm leveling up on the backend and shipping side: **Docker · CI/CD · NestJS · AWS · AI systems**.
 
-- 🎯 Pixel-perfect, animated frontends — backed by APIs that scale
-- 🌱 **Now learning:** Docker · CI/CD · NestJS · AWS · AI systems (LLM apps, RAG)
-- 🧰 **Working with:** TypeScript · Node.js · Express · PostgreSQL · MongoDB
-- 📫 **Reach me:** [mdsakebul66@gmail.com](mailto:mdsakebul66@gmail.com) · [sakebul.com](https://sakebul.com)
-
-## 🚀 Featured projects
-
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| **SkillUP** | Online learning platform with Stripe course payments, teacher onboarding, assignments and three role-based dashboards | React · Node · Express · MongoDB · Stripe | [Live](https://skillup-66.netlify.app/) · [Client](https://github.com/Sakebul-islam/SkillUP) · [Server](https://github.com/Sakebul-islam/skillup-server-side) |
-| **Kola** | Community food-donation platform connecting donors with people in need | React · Node · Express · MongoDB · Firebase | [Live](https://kola-sakib.netlify.app/) · [Client](https://github.com/Sakebul-islam/Kola) · [Server](https://github.com/Sakebul-islam/kola-server-side) |
-| **Martaxo** | Electronics marketplace with brand browsing, reviews and live inventory | React · Node · Express · MongoDB · Firebase | [Live](https://martaxo.netlify.app/) · [Client](https://github.com/Sakebul-islam/Martaxo) · [Server](https://github.com/Sakebul-islam/martaxo-server-side) |
-
-More on [sakebul.com/work](https://sakebul.com/work).
-
-## 🧰 Tech stack
+<br />
 
 <div align="center">
 
-![Frontend](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,javascript,typescript,react,nextjs,vite&theme=dark)
+<img src="./images/h-projects.png" alt="02 — Featured projects" width="100%" />
 
-![Backend & tools](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,docker,nginx,git,github,githubactions,netlify,vercel,figma,vscode&theme=dark)
+<br /><br />
 
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://skillup-66.netlify.app/"><img src="./images/p-skillup.png" alt="SkillUP — online learning platform" /></a>
+      <br />
+      <a href="https://skillup-66.netlify.app/"><b>▶ Live</b></a> ·
+      <a href="https://github.com/Sakebul-islam/SkillUP">Client</a> ·
+      <a href="https://github.com/Sakebul-islam/skillup-server-side">Server</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://kola-sakib.netlify.app/"><img src="./images/p-kola.png" alt="Kola — community food donation" /></a>
+      <br />
+      <a href="https://kola-sakib.netlify.app/"><b>▶ Live</b></a> ·
+      <a href="https://github.com/Sakebul-islam/Kola">Client</a> ·
+      <a href="https://github.com/Sakebul-islam/kola-server-side">Server</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://martaxo.netlify.app/"><img src="./images/p-martaxo.png" alt="Martaxo — tech marketplace" /></a>
+      <br />
+      <a href="https://martaxo.netlify.app/"><b>▶ Live</b></a> ·
+      <a href="https://github.com/Sakebul-islam/Martaxo">Client</a> ·
+      <a href="https://github.com/Sakebul-islam/martaxo-server-side">Server</a>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub stats
+<sub>More work on <a href="https://sakebul.com/work">sakebul.com/work</a></sub>
 
-<div align="center">
+<br /><br />
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sakebul-islam&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=D4FF3F&icon_color=A99BFF&text_color=F4F3EE" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakebul-islam&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=D4FF3F&text_color=F4F3EE" />
+<img src="./images/h-stack.png" alt="03 — Tech stack" width="100%" />
+
+<br /><br />
+
+<table>
+  <tr>
+    <td align="right"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,javascript,typescript,react,nextjs,vite&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🚢 DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,netlify,vercel&theme=dark" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
+
+<br />
+
+<img src="./images/h-stats.png" alt="04 — GitHub stats" width="100%" />
+
+<br /><br />
+
+<img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sakebul-islam&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=D4FF3F&icon_color=A99BFF&text_color=F4F3EE&ring_color=D4FF3F&include_all_commits=true&count_private=true" />
+<img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakebul-islam&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=D4FF3F&text_color=F4F3EE&langs_count=8" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Sakebul-islam&hide_border=true&background=0A0A0B&stroke=2A2A2E&ring=D4FF3F&fire=A99BFF&currStreakNum=F4F3EE&sideNums=F4F3EE&currStreakLabel=D4FF3F&sideLabels=8B8B91&dates=8B8B91" />
 
-</div>
+<img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakebul-islam&bg_color=0A0A0B&color=F4F3EE&line=D4FF3F&point=A99BFF&area=true&area_color=A99BFF&hide_border=true&title_color=D4FF3F" />
 
----
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Sakebul-islam&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
-<div align="center">
+<br />
 
-**Open to good conversations and good code.** · [sakebul.com](https://sakebul.com)
+<img src="./images/h-connect.png" alt="05 — Let's connect" width="100%" />
+
+<br /><br />
+
+<a href="mailto:sakebul@sakebul.com"><b>sakebul@sakebul.com</b></a> &nbsp;·&nbsp; <a href="https://sakebul.com"><b>sakebul.com</b></a>
+
+<br /><br />
+
+<a href="https://sakebul.com"><img src="https://img.shields.io/badge/Visit_my_portfolio-D4FF3F?style=for-the-badge&labelColor=0A0A0B&logo=googlechrome&logoColor=D4FF3F" alt="Visit my portfolio" /></a>
+<a href="mailto:sakebul@sakebul.com"><img src="https://img.shields.io/badge/Send_an_email-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=maildotru&logoColor=A99BFF" alt="Send an email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sakebul-islam&style=for-the-badge&color=0A0A0B&labelColor=0A0A0B&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4FF3F,100:A99BFF&height=110&section=footer&reversal=true" alt="" width="100%" />
 
 </div>
