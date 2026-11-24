@@ -102,17 +102,15 @@
 
 <img alt="Contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakebul-islam&bg_color=0A0A0B&color=F4F3EE&line=D4FF3F&point=A99BFF&area=true&area_color=A99BFF&hide_border=true&title_color=D4FF3F" />
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Sakebul-islam&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-<br />
+<br /><br />
 
 <img src="./images/h-connect.png" alt="05 — Let's connect" width="100%" />
 
-<br /><br />
+<br />
 
 <a href="mailto:sakebul@sakebul.com"><b>sakebul@sakebul.com</b></a> &nbsp;·&nbsp; <a href="https://sakebul.com"><b>sakebul.com</b></a>
 
-<br /><br />
+<br />
 
 <a href="https://sakebul.com"><img src="https://img.shields.io/badge/Visit_my_portfolio-D4FF3F?style=for-the-badge&labelColor=0A0A0B&logo=googlechrome&logoColor=D4FF3F" alt="Visit my portfolio" /></a>
 <a href="mailto:sakebul@sakebul.com"><img src="https://img.shields.io/badge/Send_an_email-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=maildotru&logoColor=A99BFF" alt="Send an email" /></a>
