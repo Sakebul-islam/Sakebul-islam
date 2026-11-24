@@ -36,13 +36,13 @@
 
 <br />
 
-<img src="./images/experience.png" alt="experience.ts — Jr. Frontend Developer at Unlocklive IT Limited, Apr 2024 to present" width="100%" />
+<img src="./images/experience.png" alt="experience.ts — Mid-level Frontend Developer at Unlocklive IT Limited, Apr 2024 to present" width="100%" />
 
 </div>
 
 <br />
 
-> **Jr. Frontend Developer · [Unlocklive IT Limited](https://unlocklive.com)** · Dhaka · Apr 2024 – present
+> **Mid-level Frontend Developer · [Unlocklive IT Limited](https://unlocklive.com)** · Dhaka · Apr 2024 – present
 >
 > - Build client web apps: Figma designs into responsive React and Next.js interfaces, connected to REST APIs, with Node.js and Express backends when a feature needs one.
 > - Shipped **40+ website templates approved by Envato** and sold on ThemeForest, including Averto, Dinevo and SaasLyn.
