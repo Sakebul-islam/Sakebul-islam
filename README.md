@@ -32,7 +32,30 @@
 
 <div align="center">
 
-<img src="./images/h-projects.png" alt="02 — Featured projects" width="100%" />
+<img src="./images/h-experience.png" alt="02 — Experience" width="100%" />
+
+<br />
+
+<img src="./images/experience.png" alt="experience.ts — Jr. Frontend Developer at Unlocklive IT Limited, Apr 2024 to present" width="100%" />
+
+</div>
+
+<br />
+
+> **Jr. Frontend Developer · [Unlocklive IT Limited](https://unlocklive.com)** · Dhaka · Apr 2024 – present
+>
+> - Build client web apps: Figma designs into responsive React and Next.js interfaces, connected to REST APIs, with Node.js and Express backends when a feature needs one.
+> - Shipped **40+ website templates approved by Envato** and sold on ThemeForest, including Averto, Dinevo and SaasLyn.
+> - Architect multi-demo Next.js (App Router) templates in React 19 and TypeScript with reusable components and typed content files.
+> - Add smooth GSAP, Lenis and Swiper motion while keeping pages fast, SEO-ready and accessible.
+>
+> **Also built:** [sakebul.com](https://sakebul.com), my full-stack Next.js 16 portfolio with its own CMS, PostgreSQL (Drizzle) and an AI assistant.
+
+<br />
+
+<div align="center">
+
+<img src="./images/h-projects.png" alt="03 — Featured projects" width="100%" />
 
 <br /><br />
 
@@ -66,7 +89,7 @@
 
 <br /><br />
 
-<img src="./images/h-stack.png" alt="03 — Tech stack" width="100%" />
+<img src="./images/h-stack.png" alt="04 — Tech stack" width="100%" />
 
 <br /><br />
 
@@ -91,7 +114,7 @@
 
 <br />
 
-<img src="./images/h-stats.png" alt="04 — GitHub stats" width="100%" />
+<img src="./images/h-stats.png" alt="05 — GitHub stats" width="100%" />
 
 <br /><br />
 
@@ -104,7 +127,7 @@
 
 <br /><br />
 
-<img src="./images/h-connect.png" alt="05 — Let's connect" width="100%" />
+<img src="./images/h-connect.png" alt="06 — Let's connect" width="100%" />
 
 <br />
 
