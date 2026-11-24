@@ -13,7 +13,7 @@
 <a href="mailto:sakebul@sakebul.com"><img src="https://img.shields.io/badge/EMAIL-sakebul@sakebul.com-F4F3EE?style=for-the-badge&labelColor=0A0A0B&logo=maildotru&logoColor=F4F3EE" alt="Email" /></a>
 <a href="https://www.facebook.com/Sakebul66/"><img src="https://img.shields.io/badge/FACEBOOK-Sakebul66-A99BFF?style=for-the-badge&labelColor=0A0A0B&logo=facebook&logoColor=A99BFF" alt="Facebook" /></a>
 
-<br /><br />
+<br />
 
 <img src="./images/divider.png" alt="" width="100%" height="6" />
 
